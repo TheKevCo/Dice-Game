@@ -1,0 +1,46 @@
+body {
+    background-color: #4E6E81;
+}
+
+h1 {
+    font-family: 'Satisfy', cursive;
+    text-shadow: 5px 0 #232931;
+    color: #4ECCA3;
+    font-size: 8rem;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.flag-img {
+    width: 10%;
+    height: 10%;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+p {
+    font-family: 'Satisfy', cursive;
+    text-shadow: 5px 0 #232931;
+    color: #4ECCA3;
+    font-size: 4rem;
+    margin: 0;
+}
+
+.dice-container {
+    padding: 40px;
+}
+
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    font-size: 2rem;
+  }
